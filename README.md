@@ -10,6 +10,11 @@
 <li>CSS</li>
 <li>JAVA SCRIPT</li>
 </ul>
+<p>You can find me:</p>
+<li>Facebook</li>
+<li>Instagram</li>
+<li>Twetter</li>
+<br>
+[![lisko GitHub stats](https://github-readme-stats.vercel.app/api?username=liskoo1)](https://github.com/anuraghazra/github-readme-stats)
 
-    
    
