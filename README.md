@@ -14,10 +14,12 @@
 <li>JAVA SCRIPT</li>
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 </ul>
+<hr>
 <p>You can find me:</p>
 <li><a href="https://www.facebook.com/luis.requenamellado">Facebook</a></li>
 <li><a href="https://www.instagram.com/luisrequenamell/">Instagram</a></li>
 <li><a href="https://twitter.com/Liskoo89">Twetter</a></li>
+<hr>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=liskoo1" alt=""></p>
 
