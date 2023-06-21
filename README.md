@@ -2,7 +2,7 @@
 <p><img src="https://github.com/liskoo1/liskoo1/assets/106185848/eda484f0-e9d3-49ca-a1a9-21c7d56202a0" alt=""></p>
 <h1><b>Welcome to my repository on Github</b></h1>
 <br>
-<p>My name is Luis. I am Junior Developer of  de academy <a href="https://www.conquercrypto.com">Conquercrypto </a></p>
+<p>My name is Luis. I am Junior Developer of academy <a href="https://www.conquercrypto.com">Conquercrypto </a></p>
 <h2> Lenguages i know:</h2>
 <ul>
 <li>Python</li>
