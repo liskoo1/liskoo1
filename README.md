@@ -6,9 +6,13 @@
 <h2> Lenguages i know:</h2>
 <ul>
 <li>Python</li>
-<li>HTML</li>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+</p><li>HTML </li>
+   <img  width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <li>CSS</li>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <li>JAVA SCRIPT</li>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 </ul>
 <p>You can find me:</p>
 <li><a href="https://www.facebook.com/luis.requenamellado">Facebook</a></li>
