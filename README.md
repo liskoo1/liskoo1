@@ -3,7 +3,7 @@
 <h1><b>Welcome to my repository on Github</b></h1>
 <br>
 <p>My name is Luis. I am Junior Developer of academy <a href="https://www.conquercrypto.com">Conquercrypto </a></p>
-<h2> Lenguages i'm learning:</h2>
+<h2> Lenguages that i'm learning:</h2>
 <table style="text-align:center">
     <tr>
         <th>Python</th>
