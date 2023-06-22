@@ -3,23 +3,38 @@
 <h1><b>Welcome to my repository on Github</b></h1>
 <br>
 <p>My name is Luis. I am Junior Developer of academy <a href="https://www.conquercrypto.com">Conquercrypto </a></p>
-<h2> Lenguages i know:</h2>
-<ul>
-<li>Python</li>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-</p><li>HTML </li>
-   <img  width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<li>CSS</li>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<li>JAVA SCRIPT</li>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-</ul>
+<h2> Lenguages i'm learning:</h2>
+<table style="text-align:center">
+    <tr>
+        <th>Python</th>
+        <th>HTML</th>
+        <th>CSS</th>
+        <th>JS</th>
+        <th>SOLIDITY</th>
+    </tr>
+    <tr>
+        <td><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></td>
+        <td><img  width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/color-glass/48/solidity.png" alt="solidity"/></td>
+    </tr>
+    <tr>
+        <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning"/></td>
+        <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning"/></td>
+    </tr>
+</table>
 <hr>
-<p>You can find me:</p>
-<li><a href="https://www.facebook.com/luis.requenamellado">Facebook</a></li>
-<li><a href="https://www.instagram.com/luisrequenamell/">Instagram</a></li>
-<li><a href="https://twitter.com/Liskoo89">Twetter</a></li>
-<hr>
+<h3>You can find me:</h3>
+<p>
+    <a href="https://www.facebook.com/luis.requenamellado" id="face"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook.png" alt="facebook" id="face"/></a>
+    <a href="https://www.instagram.com/luisrequenamell/" id="instagram"><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1" id="intagram"/></a>
+    <a href="https://twitter.com/Liskoo89" id="twetter"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1" id="twetter"/></a>
+    </p>
+    <hr>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=liskoo1" alt=""></p>
 
