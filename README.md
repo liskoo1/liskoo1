@@ -32,7 +32,7 @@
 <p>
     <a href="https://www.instagram.com/luisrequenamell/" id="instagram"><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1" id="intagram"/></a>
     <a href="https://twitter.com/Liskoo89" id="twetter"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1" id="twetter"/></a>
-    <a href="https://twitter.com/Liskoo89" id="twetter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+    <a href="https://www.linkedin.com/in/luis-requena-mellado-b59123265/" id="linke"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
     </p>
     <hr>
 <br>
