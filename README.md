@@ -30,9 +30,9 @@
 <hr>
 <h3>You can find me:</h3>
 <p>
-    <a href="https://www.facebook.com/luis.requenamellado" id="face"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook.png" alt="facebook" id="face"/></a>
     <a href="https://www.instagram.com/luisrequenamell/" id="instagram"><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1" id="intagram"/></a>
     <a href="https://twitter.com/Liskoo89" id="twetter"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1" id="twetter"/></a>
+    <a href="https://twitter.com/Liskoo89" id="twetter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
     </p>
     <hr>
 <br>
