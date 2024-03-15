@@ -4,7 +4,7 @@
 <br>
 <p width="500">Welcome to my GitHub profile. I'm a software developer and I'm passionate about this work. Here you will find projects I have developed, covering everything
      from desktop to web applications and more, all driven by my curiosity and my desire to learn and grow professionally.</p>
-<h2> Lenguages that i'm learning:</h2>
+<h2> Lenguages that i'm learning and know:</h2>
 <hr>
 <div style="display: inline-block;">
     <h3 style="text-align: center;">Leguages</h3>
