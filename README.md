@@ -31,7 +31,7 @@
 </div>
 <div style="display: inline-block; margin-left: 30px;">
     <h3 style="text-align: center;">Backend and DataBase</h3>
-    <table style="text-align:center" >
+    <table style="text-align:center; align-item:center" >
         <tr>
             <th>My SQL</th>
             <th>SQL Server</th>
@@ -49,7 +49,6 @@
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>            
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning" /></td>
-
         </tr>
     </table>  
 </div>
@@ -60,7 +59,6 @@
         <th>HTML</th>
         <th>CSS</th>
         <th>SASS</th>
-        
     </tr>
     <tr>
         <td><img  width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></td>
@@ -71,7 +69,6 @@
         <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
         <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
         <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
-
     </tr>
 </table>    
 </div>
@@ -92,7 +89,6 @@
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
-    
         </tr>
     </table>    
     </div>
