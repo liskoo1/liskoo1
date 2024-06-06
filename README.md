@@ -79,13 +79,19 @@
             <th>Vite</th>
             <th>Uvicorn</th>
             <th>Linux</th>
+            <th>WPF</th>
+            <th>MAUI</th>
         </tr>
         <tr>
             <td><img width="48" height="48" src="https://img.icons8.com/color/48/vite.png" alt="vite"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/nolan/64/unicorn.png" alt="unicorn"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></td>
+            <td><img width="48" height="48" src="./img/wpf.webp" alt="linux--v1"/></td>
+            <td><img width="48" height="48" src="./img/maui.png" alt="linux--v1"/></td>
         </tr>
         <tr>
+            <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
+            <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
