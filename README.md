@@ -24,7 +24,7 @@
         <tr>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
-            <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning"/></td>
+            <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="learning"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning"/></td>
         </tr>
     </table>   
