@@ -37,6 +37,7 @@
             <th>SQL Server</th>
             <th>Fast Api</th>
             <th>Node Js</th>
+            <th>.NET</th>
         </tr>
         <tr>
             <td><img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/></td>
