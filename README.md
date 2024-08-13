@@ -43,12 +43,15 @@
             <td><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/ios/50/000000/lightning-bolt--v1.png" alt="lightning-bolt--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></td>
+             <td><img width="48" height="48" src="https://img.icons8.com/?size=100&id=1hX8jwYkynSh&format=png&color=000000" alt="nodejs"/></td>
         </tr>
         <tr>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
-            <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>            
-            <td><img width="48" height="48" src="https://img.icons8.com/clouds/100/learning.png" alt="learning" /></td>
+            <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
+             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
+             <td><img width="48" height="48" src="https://img.icons8.com/clouds/48/checkmark--v1.png" alt="checkmark--v1"/></td>
+            
         </tr>
     </table>  
 </div>
